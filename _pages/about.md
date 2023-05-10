@@ -18,7 +18,6 @@ Hello! This is Linghang Ding,  graduated from Hunan University of Science and Te
 
 ## Publications
 
-- **Ding L**, Liu J, Kang G, et al. Joint QoS Prediction for Web Services based on Deep Fusion of Features[J]. IEEE Transactions on Network and Service Management, 2023.
 - **Ding L**, Kang G, Liu J, et al. QoS prediction for web services via combining multi-component graph convolutional collaborative filtering and deep factorization machine[C]//2021 IEEE International Conference on Web Services (ICWS). IEEE, 2021: 551-559.
 - 刘建勋, **丁领航**, 康国胜, 等. 基于特征深度融合的 Web 服务 QoS 联合预测[J]. 通信学报, 2022: 1.
 - Xiao Y, Kang G, Liu J, Cao B and **Ding L**. WSGCN4SLP: Weighted Signed Graph Convolutional Network for Service Link Prediction[C]//2021 IEEE International Conference on Web Services (ICWS). IEEE, 2021: 135-144.
